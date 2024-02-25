@@ -1,0 +1,19 @@
+.sidebar{
+
+  height: 800px;
+  width: 6cm;
+}
+
+.app-container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+.create-post{
+
+  width : 80%;
+
+    margin: 0 3cm 2cm 2cm;
+}
